@@ -1,17 +1,18 @@
 package main
 
 import (
-	"golang-again/goroutine"
+	"golang-again/basic"
 )
 
 func main() {
 
+	basic.Basic9()
 	// goroutine.MGoRoutine()
 	// goroutine.MGoRoutineV2()
 	// goroutine.MChannel()
 	// goroutine.MChannelV2()
 	// goroutine.MChannelV3()
-	goroutine.MChannelV3_2()
+	// goroutine.MChannelV3_2()
 	// goroutine.MChannelV3_3()
 
 	// Helper.SayHi()
